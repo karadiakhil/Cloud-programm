@@ -1,7 +1,7 @@
 
 {
     "name": "Composer/composer"
-    "config": {
+    "config" {
         "platform": {
             "php": "5.6.1"
         }
