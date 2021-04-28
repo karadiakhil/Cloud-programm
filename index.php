@@ -101,7 +101,7 @@ foreach($results as $row)
 $cnt=$cnt+1;
 } } else { ?>
   <tr>
-    <td colspan="8"> No record found against this search</td>
+    <td colspan="8"> No record found against this search id</td>
 
   </tr>
    
